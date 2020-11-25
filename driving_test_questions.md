@@ -203,11 +203,11 @@ mpirun -n numproc myexecutable
 -------------------------------------------------------------
 
 What is the maximum value allowed for the number of processes <numproc> to allow the parallel job to run successfully? 
-	1
-	24
-	512
-	744
-	1024
+* 1
+* 24
+* 512
+* 744
+* 1024
 
 
 27. How many cores are there in each ARC4 node? 
@@ -218,7 +218,7 @@ What is the maximum value allowed for the number of processes <numproc> to allow
 * 40
 
 
-28. How can I contact to the Research Computing helpdesk? (select all the ones that apply)
+28. How can I contact to the Research Computing helpdesk? (select all that apply)
 * Via The IT Servicedesk
 * By email
 * By post
